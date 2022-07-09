@@ -1,3 +1,7 @@
+#Programa criado por Patricia Rezende.
+#Licença para uso e edição desde que citada a autora.
+#prarezende@hotmail.com
+
 #Gerando numeros aleatórios
 
 from random import randint
