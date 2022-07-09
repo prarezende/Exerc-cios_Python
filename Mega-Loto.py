@@ -2,14 +2,14 @@
 #Licença para uso e edição desde que citada a autora.
 #prarezende@hotmail.com
 
-#Gerando numeros aleatórios
+#Gerando numeros aleatórios para mega-sena e lotofácil
 
 from random import randint
 
 print(' Sugestão Mega-Sena')
 for i in range(6):
     print (randint(0,60))
-print(' Sugestão Loto Fácil')
+print(' Sugestão LotoFácil')
 for i in range(15):
     print (randint(1,25))
 print(' Boa Sorte!!!!')
